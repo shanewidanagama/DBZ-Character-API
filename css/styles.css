@@ -1,0 +1,44 @@
+/*
+Page name:Question 3 - CSS
+Description: Provides general formatting such as background color, spacing,
+and font choice for the API description page.
+*/
+
+/*sets font style, size, background color, and default text color */
+:root {
+  font-family: "Verdana", sans-serif;
+  font-size: 2em;
+  background-color: plum;
+  background-image: radial-gradient(white, plum);
+  color:indigo;
+}
+
+/*centers the content of the webpage*/
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width:20em;
+}
+
+/*removes bullets from list items and, spaces them out*/
+li {
+  list-style: none;
+  margin: 0.4em;
+}
+
+
+/*removes underline from hyperlinks, and makes text darkorange*/
+a {
+  text-decoration: none;
+  color: darkorange;
+}
+
+/*displays hyperlinks in gold when hovered over*/
+a:hover {
+  color: gold;
+}
+
+/*display's title of description page in darkorange*/
+.title {
+  color: darkorange;
+}
