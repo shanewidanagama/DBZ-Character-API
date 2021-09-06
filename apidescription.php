@@ -1,5 +1,5 @@
 <!--
-Page name: Question 3 - DBZ ENCYCLOPEDIA API Description
+Page name: DBZ ENCYCLOPEDIA API Description
 Description: Provides a description of the API, as well as how to use each
 endpoint together with example URLs.
 -->
