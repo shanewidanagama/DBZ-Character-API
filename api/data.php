@@ -1,6 +1,6 @@
 <?php
 /*
-Page name: Question 3 - DBZ ENCYCLOPEDIA FUNCTIONS
+Page name: DBZ ENCYCLOPEDIA FUNCTIONS
 Description: Defines the functions used by each endpoint. get_race gets a
 character's race. info_from_id gets general info using a character's id.
 stronger_than accepts a character id, and return's a character stronger than
