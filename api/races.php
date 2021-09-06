@@ -1,6 +1,6 @@
 <?php
 /*
-Page name: Question 3 - DBZ ENCYCLOPEDIA Race endpoint
+Page name: DBZ ENCYCLOPEDIA Race endpoint
 Description: Uses GET function to retrieve character name from the url, calls the
 get_race function, and returns an appropriate response. If successful,
 returns alien race a character belongs to.
