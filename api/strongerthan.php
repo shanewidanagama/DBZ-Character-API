@@ -1,6 +1,6 @@
 <?php
 /*
-Page name: Question 3 - DBZ ENCYCLOPEDIA strongerthan endpoint
+Page name: DBZ ENCYCLOPEDIA strongerthan endpoint
 Description: Uses GET function to retrieve id from the url, calls the
 stronger_than function, and returns an appropriate response. If successful,
 it returns a stronger character, and their power level.
