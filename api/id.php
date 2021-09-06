@@ -1,6 +1,6 @@
 <?php
 /*
-Page name: Question 3 - DBZ ENCYCLOPEDIA Profile endpoint
+Page name: DBZ ENCYCLOPEDIA Profile endpoint
 Description: Uses GET function to retrieve id from the url, calls the
 info_from_id function, and returns an appropriate response. If successful,
 returns the id, name, address, power level, and race of a character
